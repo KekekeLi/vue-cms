@@ -1,4 +1,4 @@
 [submodule "react-practice"]
 	path = react-practice
 	url = https://github.com/KekekeLi/react-practice.git
-	branch = develop
+	branch = master
