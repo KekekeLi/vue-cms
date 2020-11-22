@@ -3,3 +3,5 @@ made a change.
 测试冲突：在master分支上修改一次
 测试冲突：在dev分支上修改一次
 测试dev分支提交领先master的情况
+测试dev分支提交领先master的情况
+relation merge测试
